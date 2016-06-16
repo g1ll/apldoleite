@@ -67,7 +67,7 @@ $gover_ent = array('<div class="row">
 				</div>');
 $header = '<div class="featurette arrumado2">
 			<img alt="Sketch Logo" class="featurette-image img-square img-responsive pull-left movimento" src="img/logo.png">
-            <h2 class="featurette-heading arrumado">APL DO LEITE <span class="text-muted"><small>Santana do Livramento </small></span></h2>
+            <h2 class="featurette-heading arrumado">APL DO LEITE <span class="text-muted"><small>Santana do Livramento ! </small></span></h2>
             <p class="lead arrumado">Os Arranjos Produtivos Locais constitui-se numa nova abordagem de planejamento territorial com base na cooperação entre entidades públicas, privadas e não governamentais. O APL tem como ideia central a inovação dos processos de produção, comercialização e na articulação dos atores sociais locais (produtivos e institucionais) de forma coletiva a partir de uma visão sistêmica da atividade econômica.</p>
 			</div>
 			<hr class="featurette-divider">';
